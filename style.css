@@ -1,0 +1,12 @@
+body {
+  font-family: "Manrope", sans-serif;
+  overflow: hidden;
+}
+
+.bg-custom-primary {
+  background-color: #f7f9fb;
+}
+
+.bg-custom-white {
+  background-color: #ffffff;
+}
