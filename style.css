@@ -10,3 +10,7 @@ body {
 .bg-custom-white {
   background-color: #ffffff;
 }
+
+.fa-brands:hover {
+  color: rgb(255, 255, 255);
+}
