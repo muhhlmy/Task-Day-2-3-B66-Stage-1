@@ -1,6 +1,6 @@
 body {
   font-family: "Manrope", sans-serif;
-  overflow: hidden;
+  overflow-x: hidden;
 }
 
 .bg-custom-primary {
@@ -13,4 +13,8 @@ body {
 
 .fa-brands:hover {
   color: rgb(255, 255, 255);
+}
+
+#home {
+  min-height: calc(100vh - 56px);
 }
